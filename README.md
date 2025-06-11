@@ -29,8 +29,6 @@ Inorder to model a chessboard within a data structure a 2D array was used with t
 5. **Screen**:
 Game Screen
 
-    1. Main Screen: 
-    ![index page](https://raw.githubusercontent.com/ahmadrazakhawaja/chess-game-AI-project/master/project_images/Screenshot%202021-03-04%20at%206.16.22%20PM.png)<br/><br/>
     2. Starting position:
     ![index page](https://raw.githubusercontent.com/ahmadrazakhawaja/chess-game-AI-project/master/project_images/Screenshot%202021-03-04%20at%2010.02.30%20PM.png)<br/><br/>
     4. The GUI guiding player which moves he can play after he clicked on his left white knight:
